@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: 图集
 description: 记录练习过程中的图画和笔记
+include:
+  - days
