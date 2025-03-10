@@ -8,3 +8,4 @@
 
 - [DAY1](./days/DAY1.md)
 - [DAY2](./days/DAY2.md)
+- [DAY3](./days/DAY3.md)
