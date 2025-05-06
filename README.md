@@ -17,3 +17,4 @@
 
 - [恶魂](./diarys/ghast.md)
 - [末影人](./diarys/enderman.md)
+- [流浪者](./diarys/enderman.md)
